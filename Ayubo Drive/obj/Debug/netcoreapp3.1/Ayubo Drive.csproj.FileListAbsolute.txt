@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.exe
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.deps.json
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.runtimeconfig.json
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.dll
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\netcoreapp3.1\Ayubo Drive.pdb
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo_Drive.Properties.Resources.resources
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.AssemblyInfo.cs
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.dll
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.pdb
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo Drive.genruntimeconfig.cache
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo_Drive.LoginFrm.resources
+C:\Users\hp\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\netcoreapp3.1\Ayubo_Drive.Main_form.resources
